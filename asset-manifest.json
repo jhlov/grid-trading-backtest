@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-project-template/static/css/main.c780e24a.css",
+    "main.js": "/react-project-template/static/js/main.732a3654.js",
+    "static/js/206.45c56dcc.chunk.js": "/react-project-template/static/js/206.45c56dcc.chunk.js",
+    "index.html": "/react-project-template/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c780e24a.css",
+    "static/js/main.732a3654.js"
+  ]
+}
